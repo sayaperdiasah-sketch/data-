@@ -1,0 +1,15 @@
+Model,Class,Precision,Recall,F1
+LightGBM,Bronchiectasis,0.769,0.625,0.69
+LightGBM,Bronchiolitis,0.267,0.308,0.286
+LightGBM,COPD,0.967,0.965,0.966
+LightGBM,Healthy,0.457,0.6,0.519
+LightGBM,Other,0.0,0.0,0.0
+LightGBM,Pneumonia,0.273,0.243,0.257
+LightGBM,URTI,0.286,0.261,0.273
+CatBoost,Bronchiectasis,1.0,0.5,0.667
+CatBoost,Bronchiolitis,0.25,0.154,0.19
+CatBoost,COPD,0.982,0.962,0.972
+CatBoost,Healthy,0.407,0.629,0.494
+CatBoost,Other,0.0,0.0,0.0
+CatBoost,Pneumonia,0.235,0.324,0.273
+CatBoost,URTI,0.364,0.348,0.356

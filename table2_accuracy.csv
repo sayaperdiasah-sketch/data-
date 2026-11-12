@@ -1,0 +1,5 @@
+model,Patient-Wise (mean),Patient-Wise (std),Random Split (mean),Random Split (std)
+LightGBM,0.8641,0.1001,0.9359,0.0118
+CatBoost,0.8624,0.1049,0.9239,0.0196
+RandomForest,0.8381,0.1075,0.8859,0.0038
+LogReg,0.8317,0.1101,0.8891,0.0209

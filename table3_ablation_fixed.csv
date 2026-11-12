@@ -1,0 +1,5 @@
+Feature Set,Macro-F1 (mean),Macro-F1 (std),n_features
+D_All,0.4421,0.0653,82
+B_Spectral_only,0.4207,0.0759,15
+A_MFCC_only,0.2591,0.0765,52
+C_Annotation_only,0.2544,0.0299,15

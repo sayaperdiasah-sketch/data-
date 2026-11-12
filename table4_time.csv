@@ -1,0 +1,5 @@
+model,"Fit time (mean, s)","Fit time (std, s)"
+CatBoost,63.0,8.2
+LightGBM,7.9,0.4
+LogReg,1.2,1.9
+RandomForest,1.9,0.5
